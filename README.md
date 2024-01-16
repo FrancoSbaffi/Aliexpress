@@ -27,6 +27,4 @@
 - [**AWS**](https://aws.amazon.com/) - Amazon Web Services, a comprehensive cloud computing platform provided by Amazon.
 - [**Heroku**](https://www.heroku.com/) - A cloud platform that enables developers to build, deploy, and scale applications.
 
-##  License
 
-[MIT](#) - Created by [**Franco Sbaffi**](https://www.linkedin.com/in/franco-sbaffi/).
