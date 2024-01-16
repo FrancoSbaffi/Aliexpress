@@ -9,7 +9,7 @@
 </h3>
 
 <p align="center">
-  Alibaba Clone 2024
+  Aliexpress Clone 2024
 </p>
 <br>
 <div align="center">
